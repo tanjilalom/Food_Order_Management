@@ -1,0 +1,10 @@
+  1. Burger               40/- 
+  2. Noodles              60/-
+  3. Sandwich             45/-
+  4. Beverages            35/-
+  5. Veg. Thaali          150/-  
+    -->Dal
+    -->Paneer  
+    -->Chapati
+    -->Rice
+    -->Papad
